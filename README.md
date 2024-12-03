@@ -8,6 +8,7 @@ This is my first attempt at designing a **Reinforcement Learning (RL)** model, c
 To get started, you'll need the following:
 - **Windows Flash Player**
 - A **modified SWF file** of the game Antbuster.
+- Install the required libraries (use requirements.txt)
 
 It’s not necessary to run, but I have also included my **"trained" model** and its **JSON log** for reference.
 
